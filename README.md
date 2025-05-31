@@ -6,9 +6,15 @@ This project is the first one I made after learning Java through Codecademy and 
 The UI was made using Swing.
 
 <h2>Usage:</h2>
+<p>
+Run the main method in the Main class
+</p>
 
-<h3>Controls:</h3>  
-Space to fly and reset on a game over
+<h2>Controls:</h2>
+<ul>
+    <li><strong>Space Bar:</strong> Make the bird fly upwards.</li>
+    <li><strong>Space Bar (on Game Over screen):</strong> Reset the game.</li>
+</ul>
 
 <h2>Results:</h2>
 
